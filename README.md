@@ -1,4 +1,4 @@
-# email datasets for inference attacks
+# e-mail datasets for inference attacks
 
 Preprocessing notebooks to change the [ENRON](https://www.kaggle.com/wcukierski/enron-email-dataset) and [SPAMASSASSIN](https://www.kaggle.com/beatoa/spamassassin-public-corpus) datasets from raw e-mail text into a representation that can be easily loaded into datasets with the same columns.
 
